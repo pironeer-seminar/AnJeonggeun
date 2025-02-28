@@ -13,3 +13,5 @@
 - Pull Request를 본인이 merge 하시면 안됩니다!
 - Pull Request 시간을 기준으로 지각 여부를 판단합니다!
 - Pull Request에 본인이 올린 코드가 잘 들어갔는지 확인해주세요
+
+## 과제 제출 예시입니다
